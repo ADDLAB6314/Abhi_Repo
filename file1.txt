@@ -1,1 +1,3 @@
 This is the first file in my project.
+It should be used for the future branch. 
+We need to abide by branching strategy.
