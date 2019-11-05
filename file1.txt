@@ -1,3 +1,5 @@
 This is the first file in my project.
 It should be used for the future branch. 
 We need to abide by branching strategy.
+This change is for hotfix and has to be treated
+with high priority.
