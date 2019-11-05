@@ -1,4 +1,6 @@
 This is the first file in my project.
 Let's do this on the github website.
+It should be used for the future branch. 
+We need to abide by branching strategy.
 This change is for hotfix and has to be treated
 with high priority.
